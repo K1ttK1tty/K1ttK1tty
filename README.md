@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm Vladislav, I'm a community guy who loves web development. I've freelancing experience, but now i'm working on my on projects.
+# I'm Vladislav, I'm a community guy who loves web development. I've freelancing experience, but now i'm working on my on projects.
 Fun fact: [object Object]
 
 
