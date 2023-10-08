@@ -1,8 +1,8 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px"> Hi there 👨‍💻.
-(◕‿◕) || I'm Vladislav, a community guy who loves web development. I've freelancing experience, but now i'm working on my on projects.
+I'm Vladislav, a community guy who loves web development. I've freelancing experience, but now i'm working on my on projects.
 
 
-## 💻 Experience
+## 💻 Experience (◕‿◕)
 🔥 I've spent most of my time as developer with the following stack: 
 ### - Front-end:
 <div>  
