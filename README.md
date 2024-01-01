@@ -13,6 +13,9 @@ I'm Vladislav, a community guy who loves web development. I've freelancing exper
 <a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="45" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="45" /></a>  
 </div>
+<div>
+  <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="45" /></a>  
+</div>
 
 ### - Back-end:
 <div>  
